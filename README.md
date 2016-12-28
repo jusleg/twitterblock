@@ -1,2 +1,2 @@
 # Twitter Block
-Block fake followers on twitter
+Block fake twitter followers
