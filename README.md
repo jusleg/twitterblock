@@ -1,5 +1,5 @@
 # Twitter Block
-Block fake twitter followers
+A chrome extension that blocks fake twitter followers
 
 ![demo](res/gif.gif)
 
