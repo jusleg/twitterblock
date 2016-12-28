@@ -1,6 +1,5 @@
 chrome.browserAction.onClicked.addListener(function (tab) { //Fired when User Clicks ICON
     if (tab.url.indexOf("twitter.com/followers") != -1|| (tab.url.indexOf("twitter.com/") != -1 && tab.url.indexOf("/followers") != -1)) { // Inspect whether the place where user clicked matches with our list of URL
-        alert("matching");
         chrome.tabs.executeScript(tab.id, {
             "file": "contentscript.js"
         }, function () { // Execute your code
