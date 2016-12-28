@@ -1,7 +1,7 @@
 # Twitter Block
 Block fake twitter followers
 
-![twitter eggs](twitter-egg-medley-stacked.png)
+![twitter eggs](res/twitter-egg-medley-stacked.png)
 
 ## How does it work?
 
