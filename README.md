@@ -9,7 +9,7 @@ Twitter Block is using a script built by [Clayton Lambert](https://claytonn.com/
 
 ## What types of accounts will it block?
 
-![twitter eggs](twitter-egg-medley-stacked.png)
+![twitter eggs](res/twitter-egg-medley-stacked.png)
 
 Here are the criterias to determine if an account is fake. A combination of those criterias will flag an account as fake.
 
