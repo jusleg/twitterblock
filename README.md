@@ -29,7 +29,7 @@ Here are the criterias to determine if an account is fake. A combination of thos
 
 ## License
 
-Copyright [2016] Clayton Lambert & Justin Leger
+Copyright 2016 Clayton Lambert & Justin Leger
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
