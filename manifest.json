@@ -1,0 +1,27 @@
+{
+        "name": "Block Fake Followers",
+        "version": "1.0",
+        "manifest_version": 2,
+        "description": "This extension will remove fake followers on twitter",
+        "homepage_url": "https://justinleger.ca",
+        "icons": { "16": "icon.png",
+            "48": "icon.png",
+            "128": "icon.png"
+        },
+        "browser_action": {
+          "name": "Click to block fake Followers",
+          "default_icon": "icon.png"
+        },
+        "background":{
+            "scripts":["background.js"]
+        },
+        "permissions":["*://twitter.com/*"],
+        "content_scripts": [
+          {
+            "matches": ["*://twitter.com/*"],
+            "js": [
+              "jquery/jquery.js"
+            ]
+          }
+        ]
+}
