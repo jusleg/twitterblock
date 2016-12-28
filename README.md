@@ -1,13 +1,15 @@
 # Twitter Block
 Block fake twitter followers
 
-![twitter eggs](res/twitter-egg-medley-stacked.png)
+![demo](res/gif.gif)
 
 ## How does it work?
 
 Twitter Block is using a script built by [Clayton Lambert](https://claytonn.com/). When the script is called, it looks for every followers' picture, banner, description and link. Every follower gets a score according to those criterias. If the score is above a certain treshold, the follower will be blocked. This script was packaged into a chrome extension for ease of use.
 
 ## What types of accounts will it block?
+
+![twitter eggs](twitter-egg-medley-stacked.png)
 
 Here are the criterias to determine if an account is fake. A combination of those criterias will flag an account as fake.
 
